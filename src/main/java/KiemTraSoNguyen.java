@@ -6,3 +6,4 @@ public class KiemTraSoNguyen {
         return "So nguyen duong";
     }
 }
+
